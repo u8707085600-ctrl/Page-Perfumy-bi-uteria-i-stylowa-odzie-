@@ -1,0 +1,19 @@
+<nav>
+  <ul>
+    <li>Zapachy</li>
+    <li>Biżuteria</li>
+    <li>Odzież</li>
+    <li style="color: gold;"> (Premium)</li>
+  </ul>
+</nav>
+
+<section id="total-look">
+  <h2>Stwórz swój Total Look</h2>
+  <p>Biżuteria i perfumy dopasowane do Twojej osobowości. Odzież na miarę </p>
+</section>
+
+<div class="service-box">
+  <h4>Potrzebujesz  </h4>
+  <p>Perfumes</p>
+  <button>Zarezerwuj teraz</button>
+</div>
